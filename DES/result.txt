@@ -1,0 +1,202 @@
+Plaintext      0123456789ABCDEF
+Key            133457799BBCDFF1
+PC1            F0CCAAF556678F
+C0             F0CCAAF
+D0             556678F
+Key round 1
+C              E19955F
+D              AACCF1E
+Round key      1B02EFFC7072
+Key round 2
+C              C332ABF
+D              5599E3D
+Round key      79AED9DBC9E5
+Key round 3
+C              0CCAAFF
+D              56678F5
+Round key      55FC8A42CF99
+Key round 4
+C              332ABFC
+D              599E3D5
+Round key      72ADD6DB351D
+Key round 5
+C              CCAAFF0
+D              6678F55
+Round key      7CEC07EB53A8
+Key round 6
+C              32ABFC3
+D              99E3D55
+Round key      63A53E507B2F
+Key round 7
+C              CAAFF0C
+D              678F556
+Round key      EC84B7F618BC
+Key round 8
+C              2ABFC33
+D              9E3D559
+Round key      F78A3AC13BFB
+Key round 9
+C              557F866
+D              3C7AAB3
+Round key      E0DBEBEDE781
+Key round 10
+C              55FE199
+D              F1EAACC
+Round key      B1F347BA464F
+Key round 11
+C              57F8665
+D              C7AAB33
+Round key      215FD3DED386
+Key round 12
+C              5FE1995
+D              1EAACCF
+Round key      7571F59467E9
+Key round 13
+C              7F86655
+D              7AAB33C
+Round key      97C5D1FABA41
+Key round 14
+C              FE19955
+D              EAACCF1
+Round key      5F43B7F2E73A
+Key round 15
+C              F866557
+D              AAB33C7
+Round key      BF918D3D3F0A
+Key round 16
+C              F0CCAAF
+D              556678F
+Round key      CB3D8B0E17F5
+IP             CC00CCFFF0AAF0AA
+L0             CC00CCFF
+R0             F0AAF0AA
+Round 1
+Round key      1B02EFFC7072
+Expansion      7A15557A1555
+XOR            6117BA866527
+S-box          5C82B597
+P              234AA9BB
+L              F0AAF0AA
+R              EF4A6544
+Round 2
+Round key      79AED9DBC9E5
+Expansion      75EA5430AA09
+XOR            0C448DEB63EC
+S-box          F8D03AAE
+P              3CAB87A3
+L              EF4A6544
+R              CC017709
+Round 3
+Round key      55FC8A42CF99
+Expansion      E58002BAE853
+XOR            B07C88F827CA
+S-box          2710E16F
+P              4D166EB0
+L              CC017709
+R              A25C0BF4
+Round 4
+Round key      72ADD6DB351D
+Expansion      5042F8057FA9
+XOR            22EF2EDE4AB4
+S-box          21ED9F3A
+P              BB23774C
+L              A25C0BF4
+R              77220045
+Round 5
+Round key      7CEC07EB53A8
+Expansion      BAE90400020A
+XOR            C60503EB51A2
+S-box          50C831EB
+P              2813ADC3
+L              77220045
+R              8A4FA637
+Round 6
+Round key      63A53E507B2F
+Expansion      C5425FD0C1AF
+XOR            A6E76180BA80
+S-box          41F34C3D
+P              9E45CD2C
+L              8A4FA637
+R              E967CD69
+Round 7
+Round key      EC84B7F618BC
+Expansion      F52B0FE5AB53
+XOR            19AFB813B3EF
+S-box          107540AD
+P              8C051C27
+L              E967CD69
+R              064ABA10
+Round 8
+Round key      F78A3AC13BFB
+Expansion      00C2555F40A0
+XOR            F7486F9E7B5B
+S-box          6C187CAE
+P              3C0E86F9
+L              064ABA10
+R              D5694B90
+Round 9
+Round key      E0DBEBEDE781
+Expansion      6AAB52A57CA1
+XOR            8A70B9489B20
+S-box          110C5777
+P              22367C6A
+L              D5694B90
+R              247CC67A
+Round 10
+Round key      B1F347BA464F
+Expansion      1083F960C3F4
+XOR            A170BEDA85BB
+S-box          DA045275
+P              62BC9C22
+L              247CC67A
+R              B7D5D7B2
+Round 11
+Round key      215FD3DED386
+Expansion      5AFEABEAFDA5
+XOR            7BA178342E23
+S-box          7305D101
+P              E104FA02
+L              B7D5D7B2
+R              C5783C78
+Round 12
+Round key      7571F59467E9
+Expansion      60ABF01F83F1
+XOR            15DA058BE418
+S-box          7B8B2635
+P              C268CFEA
+L              C5783C78
+R              75BD1858
+Round 13
+Round key      97C5D1FABA41
+Expansion      3ABDFA8F02F0
+XOR            AD782B75B8B1
+S-box          9AD18B4F
+P              DDBB2922
+L              75BD1858
+R              18C3155A
+Round 14
+Round key      5F43B7F2E73A
+Expansion      0F16068AAAF4
+XOR            5055B1784DCE
+S-box          64799AF1
+P              B7318E55
+L              18C3155A
+R              C28C960D
+Round 15
+Round key      BF918D3D3F0A
+Expansion      E054594AC05B
+XOR            5FC5D477FF51
+S-box          B2E88D3C
+P              5B81276E
+L              C28C960D
+R              43423234
+Round 16
+Round key      CB3D8B0E17F5
+Expansion      206A041A41A8
+XOR            EB578F14565D
+S-box          A7832429
+P              C8C04F98
+L              43423234
+R              0A4CD995
+R16L16         0A4CD99543423234
+Ciphertext     85E813540F0AB405
